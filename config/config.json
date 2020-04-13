@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "entrenarteusr",
+    "password": "thsbEBy6MttdfAfP",
+    "database": "dev_entrenarte",
+    "host": "149.248.8.229",
+    "dialect": "mysql",
+    "operatorsAliases": false
+  },
+  "test": {
+    "username": "entrenarteusr",
+    "password": "thsbEBy6MttdfAfP",
+    "database": "dev_entrenarte",
+    "host": "149.248.8.229",
+    "dialect": "mysql",
+    "operatorsAliases": false
+  },
+  "production": {
+    "username": "entrenarteusr",
+    "password": "thsbEBy6MttdfAfP",
+    "database": "dev_entrenarte",
+    "host": "149.248.8.229",
+    "dialect": "mysql",
+    "operatorsAliases": false
+  }
+}
